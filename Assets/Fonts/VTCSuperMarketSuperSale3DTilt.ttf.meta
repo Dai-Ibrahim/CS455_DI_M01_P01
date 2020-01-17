@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3dbc6a33c87cb4947962552871fb1c8f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: VTCSuperMarketSuperSale3DTilt
+  fontNames:
+  - VTCSuperMarketSuperSale3DTilt
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 4961213dfa73444108d260af7911752f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: VTCSuperMarketSale
+  fontNames:
+  - VTCSuperMarketSale
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b0de0c98a0c114b41968a1432c3c4743, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
